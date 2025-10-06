@@ -20,7 +20,7 @@ Busco constantemente aprimorar minhas habilidades em arquitetura de software, AP
 
 - Arquitetura de microsserviços   
 - Docker & CI/CD  
-- Boas práticas de Clean Code e SOLID
+- Boas práticas de Clean Code
 
 ---
 
